@@ -1,0 +1,21 @@
+.responsive{
+    background-image: url('images/tt.jpeg');
+
+    background-position: relative;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover;
+    margin: auto;
+    width: auto;
+    height: auto;
+    }
+.mypic
+{
+    width: 50%;
+    margin:auto;
+    border: 4px solid whitesmoke;
+}
+.ccd
+{
+    flex:auto ;
+}
